@@ -1,2 +1,2 @@
 first text
-my second commit
+my next message
